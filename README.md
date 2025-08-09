@@ -1,6 +1,6 @@
 # new-issue-welcome
 
-> a GitHub App built with [probot](https://github.com/probot/probot) that welcomes new users when they open their first issue. You can use this welcome message to provide links to resources like the contributing guidelines, code of conduct, etc. It should be located in a `.github/config.yml`
+> a GitHub App built with [probot](https://github.com/armandsl/.github) that welcomes new users when they open their first issue. You can use this welcome message to provide links to resources like the contributing guidelines, code of conduct, etc. It should be located in a `.github/config.yml`
 
 <img width="801" alt="screen shot 2017-07-17 at 1 31 50 pm" src="https://user-images.githubusercontent.com/13410355/28288547-5f83aa8e-6af4-11e7-9692-eb41d42431e2.png">
 
